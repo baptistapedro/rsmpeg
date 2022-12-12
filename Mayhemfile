@@ -1,0 +1,5 @@
+project: rsmpeg
+target: rsmpeg
+
+cmds:
+  - cmd: /debug/fuzz_rsmpeg_dump @@
